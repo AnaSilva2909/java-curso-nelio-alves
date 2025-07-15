@@ -1,0 +1,378 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.topicoEspeciais_dataHora.app.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.matriz.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.customersOrders_Exe04.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program2",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.student.Program2",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.student.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.stock_Exe02.student.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.stock_Exe02.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.exercicios.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.listas.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exemploP1.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(2)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exemploP2.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "AbaixoMedia",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.AbaixoMedia",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Alturas",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.Alturas",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Aprovados",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.Aprovados",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "DadosPessoa",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.DadosPessoa",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "MaiorPosicao",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.MaiorPosicao",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "MaisVelho",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.MaisVelho",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "MediaPares",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.MediaPares",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Negativos",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.Negativos",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "NumerosPares",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.NumerosPares",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "SomaVetor",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.SomaVetor",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "SomaVetores",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.SomaVetores",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(3)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.comportamentoMemoriaArraysListas.vetores.exercicios.desafiopensionato.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(4)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.construtotesSobrecargaPalavraThisEncapsulamento.Exercicios.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(5)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.construtotesSobrecargaPalavraThisEncapsulamento.construtores.application.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe001",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe001",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe002",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe002",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe003",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe003",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe004",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe004",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe005",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe005",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe006",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaCondicional.Exercicios.Exe006",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe001(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaRepetitiva.Exercicios.exercicios_for.Exe001",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe002(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaRepetitiva.Exercicios.exercicios_for.Exe002",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe001(2)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaRepetitiva.Exercicios.exercicios_while.Exe001",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe002(2)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaRepetitiva.Exercicios.exercicios_while.Exe002",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe001(3)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.Exercicios.Exe001",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe002(3)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.Exercicios.Exe002",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe003(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.Exercicios.Exe003",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe004(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.Exercicios.Exe004",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe005(1)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.Exercicios.Exe005",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "ProcessamentoDados",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.processamentoDados.ProcessamentoDados",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Exe01",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.saidaDados.Exe01",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "SaidaDados",
+            "request": "launch",
+            "mainClass": "com.udemy.java.estruturaSequencial.saidaDados.SaidaDados",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(6)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.outrosTopicosJava.funcoes.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "ProgramEx01",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.Exercicios.atributosmetodos.ProgramEx01",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "ProgramEx02",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.Exercicios.atributosmetodos.ProgramEx02",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "ProgramEx03",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.Exercicios.atributosmetodos.ProgramEx03",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(7)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.Exercicios.estatico.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(8)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.membrosEstaticos.membrosEstP1.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(9)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.resolvendoPoblemaComOO.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(10)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.resolvendoProblemaComOODois.Program",
+            "projectName": "Java_Udemy_5545226b"
+        },
+        {
+            "type": "java",
+            "name": "Program(11)",
+            "request": "launch",
+            "mainClass": "com.udemy.java.progOO.resolvendoProblemaSemOO.application.Program",
+            "projectName": "Java_Udemy_5545226b"
+        }
+    ]
+}
