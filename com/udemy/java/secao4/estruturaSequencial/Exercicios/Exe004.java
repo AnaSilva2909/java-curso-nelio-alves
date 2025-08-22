@@ -1,4 +1,4 @@
-package com.udemy.java.estruturaSequencial.Exercicios;
+package secao4.estruturaSequencial.Exercicios;
 
 import java.util.Locale;
 import java.util.Scanner;
