@@ -1,0 +1,3 @@
+*.java linguist-language=Java
+*.md linguist-vendored
+*.yml linguist-vendored
